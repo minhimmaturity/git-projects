@@ -1,0 +1,5 @@
+-- install typeorm and postgresql
+npm install @nestjs/typeorm typeorm pg
+
+-- install config for mange environment variable
+npm i --save @nestjs/config
